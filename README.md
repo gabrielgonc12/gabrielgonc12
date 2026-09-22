@@ -41,28 +41,28 @@ Driven by complex challenges and building efficient, scalable software.
 <h3>🛠️ Tech Stack & Tools</h3>
 <b>💻 Main Languages</b><br><br>
 <div>
-<img src="https://api.iconify.design/bxl:java.svg?color=%230088FF" height="40" alt="Java" />
+<img src="https://api.iconify.design/mdi:language-java.svg?color=%230088FF" height="40" alt="Java" />
 &nbsp;
-<img src="https://cdn.simpleicons.org/c/00BFFF" height="40" alt="C" />
+<img src="https://api.iconify.design/simple-icons:c.svg?color=%2300BFFF" height="40" alt="C" />
 &nbsp;
-<img src="https://cdn.simpleicons.org/cplusplus/0055CC" height="40" alt="C++" />
+<img src="https://api.iconify.design/simple-icons:cplusplus.svg?color=%230055CC" height="40" alt="C++" />
 &nbsp;
-<img src="https://cdn.simpleicons.org/python/44AAFF" height="40" alt="Python" />
+<img src="https://api.iconify.design/simple-icons:python.svg?color=%2344AAFF" height="40" alt="Python" />
 </div>
 <br>
 <b>⚙️ Tools & OS</b><br><br>
 <div>
-<img src="https://cdn.simpleicons.org/linux/0088FF" height="40" alt="Linux" />
+<img src="https://api.iconify.design/simple-icons:linux.svg?color=%230088FF" height="40" alt="Linux" />
 &nbsp;
-<img src="https://cdn.simpleicons.org/ubuntu/00BFFF" height="40" alt="Ubuntu" />
+<img src="https://api.iconify.design/simple-icons:ubuntu.svg?color=%2300BFFF" height="40" alt="Ubuntu" />
 &nbsp;
-<img src="https://cdn.simpleicons.org/git/0055CC" height="40" alt="Git" />
+<img src="https://api.iconify.design/simple-icons:git.svg?color=%230055CC" height="40" alt="Git" />
 &nbsp;
-<img src="https://cdn.simpleicons.org/github/44AAFF" height="40" alt="GitHub" />
+<img src="https://api.iconify.design/simple-icons:github.svg?color=%2344AAFF" height="40" alt="GitHub" />
 &nbsp;
 <img src="https://api.iconify.design/simple-icons:visualstudiocode.svg?color=%230088FF" height="40" alt="VSCode" />
 &nbsp;
-<img src="https://cdn.simpleicons.org/gnubash/00BFFF" height="40" alt="Bash" />
+<img src="https://api.iconify.design/simple-icons:gnubash.svg?color=%2300BFFF" height="40" alt="Bash" />
 </div>
 </td>
 </tr>
@@ -74,7 +74,7 @@ Driven by complex challenges and building efficient, scalable software.
 <!-- GitHub Streak -->
 <div align="center">
 <h3>📊 GitHub Stats</h3>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Silva012&ring=0088FF&fire=0088FF&currStreakNum=0088FF&currStreakLabel=9f9f9f&sideNums=9f9f9f&sideLabels=9f9f9f&dates=9f9f9f&hide_border=true&background=00000000" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielgonc12&ring=0088FF&fire=0088FF&currStreakNum=0088FF&currStreakLabel=9f9f9f&sideNums=9f9f9f&sideLabels=9f9f9f&dates=9f9f9f&hide_border=true&background=00000000" alt="GitHub Streak"/>
 </div>
 
 <br>
