@@ -1,51 +1,51 @@
-<!-- Cabeçalho (Onda Verde e Preta) -->
+<!-- Cabeçalho (Corte Diagonal Azul e Preto) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2EA043&height=130&section=header" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,100:0088FF&height=130&section=header" alt="Header" />
 </div>
 
-<!-- Nome Estático em Estilo Relógio Digital -->
+<!-- Nome Estático e Subtítulo Animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=600&size=24&duration=10&pause=99999999&color=00FF66&center=true&vCenter=true&width=750&lines=Gabriel+Gon%C3%A7alves" alt="Gabriel Gonçalves" />
-</div>
-
-<!-- Subtítulo Animado -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Java+%26+C%2B%2B+Developer;Software+Engineering+Enthusiast" alt="Typing SVG" />
-</div>
-
-<!-- Contato -->
-<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=600&size=24&duration=10&pause=99999999&color=00BFFF&center=true&vCenter=true&width=750&lines=Gabriel+Gon%C3%A7alves" alt="Gabriel Gonçalves" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=0088FF&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Java+%26+C%2B%2B+Developer;Software+Engineering+Enthusiast" alt="Typing SVG" />
+  <br><br>
+  <!-- Contato -->
   <a href="mailto:gabrielsilva.gds00@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-gabrielsilva.gds00%40gmail.com-2EA043?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-gabrielsilva.gds00%40gmail.com-0088FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
 
-<br>
+<br><br>
 
-### 👨🏻‍💻 About Me
-> Computer Science undergraduate at UESB. 
-> Driven by complex challenges and building efficient, scalable software.
-
-- 🎓 **Current focus:** Software Engineering, Data Structures, and System Architecture.
-- 💻 **Main languages:** Java, C++, C, and Python.
-- 🚀 **Objective:** To build high-impact solutions through clean and optimized code.
-
-<br>
-
-### 🛠️ Tech Stack & Tools
+<!-- Seção Principal Dividida em Duas Colunas -->
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
+      <!-- Coluna da Esquerda: About Me -->
+      <td valign="top" width="55%">
+        <h3>👨🏻‍💻 About Me</h3>
+        <blockquote>
+          Computer Science undergraduate at UESB. <br>
+          Driven by complex challenges and building efficient, scalable software.
+        </blockquote>
+        <ul>
+          <li>🎓 <b>Current focus:</b> Software Engineering, Data Structures, & System Architecture.</li>
+          <li>💻 <b>Main languages:</b> Java, C++, C, and Python.</li>
+          <li>🚀 <b>Objective:</b> To build high-impact solutions through clean and optimized code.</li>
+        </ul>
+      </td>
+      
+      <!-- Coluna da Direita: Tech Stack -->
+      <td valign="top" width="45%" align="center">
+        <h3>🛠️ Tech Stack & Tools</h3>
         <b>💻 Main Languages</b><br><br>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=java,c,cpp,python&theme=dark" alt="Languages" />
+          <img src="https://skillicons.dev/icons?i=java,c,cpp,python&theme=dark&perline=4" alt="Languages" />
         </a>
-      </td>
-      <td align="center" width="50%">
+        <br><br>
         <b>⚙️ Tools & OS</b><br><br>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,vscode,bash&theme=dark" alt="Tools" />
+          <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,vscode,bash&theme=dark&perline=4" alt="Tools" />
         </a>
       </td>
     </tr>
@@ -54,14 +54,15 @@
 
 <br>
 
-### 📊 GitHub Streak
+<!-- GitHub Streak -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Silva012&ring=2EA043&fire=2EA043&currStreakNum=2EA043&currStreakLabel=9f9f9f&sideNums=9f9f9f&sideLabels=9f9f9f&dates=9f9f9f&hide_border=true&background=00000000" alt="GitHub Streak"/>
+  <h3>📊 GitHub Stats</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Silva012&ring=0088FF&fire=0088FF&currStreakNum=0088FF&currStreakLabel=9f9f9f&sideNums=9f9f9f&sideLabels=9f9f9f&dates=9f9f9f&hide_border=true&background=00000000" alt="GitHub Streak"/>
 </div>
 
 <br>
 
 <!-- Rodapé Animado -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA043,100:000000&height=90&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0088FF,100:000000&height=90&section=footer" alt="Footer" />
 </div>
