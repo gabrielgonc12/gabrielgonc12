@@ -24,22 +24,22 @@
 <tr>
 <!-- Coluna da Esquerda: About Me -->
 <td valign="top" width="55%">
-<h3>🔹 About Me</h3>
+<h3>◆ About Me</h3>
 <blockquote>
 Computer Science undergraduate at UESB.<br>
 Driven by complex challenges and building efficient, scalable software.
 </blockquote>
 <ul>
-<li>🔹 <b>Current focus:</b> Software Engineering, Data Structures, & System Architecture.</li>
-<li>🔹 <b>Main languages:</b> Java, C++, C, and Python.</li>
-<li>🔹 <b>Objective:</b> To build high-impact solutions through clean and optimized code.</li>
+<li>◆ <b>Current focus:</b> Software Engineering, Data Structures, & System Architecture.</li>
+<li>◆ <b>Main languages:</b> Java, C++, C, and Python.</li>
+<li>◆ <b>Objective:</b> To build high-impact solutions through clean and optimized code.</li>
 </ul>
 </td>
 
 <!-- Coluna da Direita: Tech Stack -->
 <td valign="top" width="45%" align="center">
-<h3>🔹 Tech Stack & Tools</h3>
-<b>🔹 Main Languages</b><br><br>
+<h3>◆ Tech Stack & Tools</h3>
+<b>◆ Main Languages</b><br><br>
 <div>
 <img src="https://api.iconify.design/mdi:language-java.svg?color=white&width=26&height=26" width="26" height="26" alt="Java" />
 &nbsp;
@@ -50,7 +50,7 @@ Driven by complex challenges and building efficient, scalable software.
 <img src="https://api.iconify.design/simple-icons:python.svg?color=white&width=26&height=26" width="26" height="26" alt="Python" />
 </div>
 <br>
-<b>🔹 Tools & OS</b><br><br>
+<b>◆ Tools & OS</b><br><br>
 <div>
 <img src="https://api.iconify.design/simple-icons:linux.svg?color=white&width=26&height=26" width="26" height="26" alt="Linux" />
 &nbsp;
@@ -73,7 +73,7 @@ Driven by complex challenges and building efficient, scalable software.
 
 <!-- GitHub Streak -->
 <div align="center">
-<h3>🔹 GitHub Stats</h3>
+<h3>◆ GitHub Stats</h3>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielgonc12&ring=0088FF&fire=0088FF&currStreakNum=0088FF&currStreakLabel=9f9f9f&sideNums=9f9f9f&sideLabels=9f9f9f&dates=9f9f9f&hide_border=true&background=00000000" alt="GitHub Streak"/>
 </div>
 
