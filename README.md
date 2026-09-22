@@ -8,7 +8,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=600&size=24&duration=10&pause=99999999&color=FFFFFF&center=true&vCenter=true&width=750&lines=Gabriel+Gon%C3%A7alves" alt="Gabriel Gonçalves" />
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=CCCCCC&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Java+%26+C%2B%2B+Developer;Software+Engineering+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=CCCCCC&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Developer;" alt="Typing SVG" />
 <br><br>
 <!-- Contato -->
 <a href="mailto:gabrielsilva.gds00@gmail.com">
