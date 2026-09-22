@@ -41,7 +41,7 @@ Driven by complex challenges and building efficient, scalable software.
 <h3>🛠️ Tech Stack & Tools</h3>
 <b>💻 Main Languages</b><br><br>
 <div>
-<img src="https://cdn.simpleicons.org/java/0088FF" height="40" alt="Java" />
+<img src="https://api.iconify.design/bxl:java.svg?color=%230088FF" height="40" alt="Java" />
 &nbsp;
 <img src="https://cdn.simpleicons.org/c/00BFFF" height="40" alt="C" />
 &nbsp;
@@ -60,7 +60,7 @@ Driven by complex challenges and building efficient, scalable software.
 &nbsp;
 <img src="https://cdn.simpleicons.org/github/44AAFF" height="40" alt="GitHub" />
 &nbsp;
-<img src="https://cdn.simpleicons.org/visualstudiocode/0088FF" height="40" alt="VSCode" />
+<img src="https://api.iconify.design/simple-icons:visualstudiocode.svg?color=%230088FF" height="40" alt="VSCode" />
 &nbsp;
 <img src="https://cdn.simpleicons.org/gnubash/00BFFF" height="40" alt="Bash" />
 </div>
