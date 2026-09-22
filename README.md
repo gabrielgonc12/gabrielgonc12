@@ -40,14 +40,30 @@ Driven by complex challenges and building efficient, scalable software.
 <td valign="top" width="45%" align="center">
 <h3>🛠️ Tech Stack & Tools</h3>
 <b>💻 Main Languages</b><br><br>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=java,c,cpp,python&theme=dark&perline=4" alt="Languages" />
-</a>
-<br><br>
+<div>
+<img src="https://cdn.simpleicons.org/java/0088FF" height="40" alt="Java" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/c/00BFFF" height="40" alt="C" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/cplusplus/0055CC" height="40" alt="C++" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/python/44AAFF" height="40" alt="Python" />
+</div>
+<br>
 <b>⚙️ Tools & OS</b><br><br>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,vscode,bash&theme=dark&perline=4" alt="Tools" />
-</a>
+<div>
+<img src="https://cdn.simpleicons.org/linux/0088FF" height="40" alt="Linux" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/ubuntu/00BFFF" height="40" alt="Ubuntu" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/git/0055CC" height="40" alt="Git" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/github/44AAFF" height="40" alt="GitHub" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/visualstudiocode/0088FF" height="40" alt="VSCode" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/gnubash/00BFFF" height="40" alt="Bash" />
+</div>
 </td>
 </tr>
 </table>
