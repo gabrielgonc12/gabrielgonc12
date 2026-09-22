@@ -41,28 +41,28 @@ Driven by complex challenges and building efficient, scalable software.
 <h3>🔹 Tech Stack & Tools</h3>
 <b>🔹 Main Languages</b><br><br>
 <div>
-<img src="https://api.iconify.design/mdi:language-java.svg?color=%230088FF" height="60" alt="Java" />
+<img src="https://api.iconify.design/mdi:language-java.svg?color=%230088FF" height="80" alt="Java" />
 &nbsp;
-<img src="https://api.iconify.design/simple-icons:c.svg?color=%2300BFFF" height="60" alt="C" />
+<img src="https://api.iconify.design/simple-icons:c.svg?color=%2300BFFF" height="80" alt="C" />
 &nbsp;
-<img src="https://api.iconify.design/simple-icons:cplusplus.svg?color=%230055CC" height="60" alt="C++" />
+<img src="https://api.iconify.design/simple-icons:cplusplus.svg?color=%230055CC" height="80" alt="C++" />
 &nbsp;
-<img src="https://api.iconify.design/simple-icons:python.svg?color=%2344AAFF" height="60" alt="Python" />
+<img src="https://api.iconify.design/simple-icons:python.svg?color=%2344AAFF" height="80" alt="Python" />
 </div>
 <br>
 <b>🔹 Tools & OS</b><br><br>
 <div>
-<img src="https://api.iconify.design/simple-icons:linux.svg?color=%230088FF" height="60" alt="Linux" />
+<img src="https://api.iconify.design/simple-icons:linux.svg?color=%230088FF" height="80" alt="Linux" />
 &nbsp;
-<img src="https://api.iconify.design/simple-icons:ubuntu.svg?color=%2300BFFF" height="60" alt="Ubuntu" />
+<img src="https://api.iconify.design/simple-icons:ubuntu.svg?color=%2300BFFF" height="80" alt="Ubuntu" />
 &nbsp;
-<img src="https://api.iconify.design/simple-icons:git.svg?color=%230055CC" height="60" alt="Git" />
+<img src="https://api.iconify.design/simple-icons:git.svg?color=%230055CC" height="80" alt="Git" />
 &nbsp;
-<img src="https://api.iconify.design/simple-icons:github.svg?color=%2344AAFF" height="60" alt="GitHub" />
+<img src="https://api.iconify.design/simple-icons:github.svg?color=%2344AAFF" height="80" alt="GitHub" />
 &nbsp;
-<img src="https://api.iconify.design/simple-icons:visualstudiocode.svg?color=%230088FF" height="60" alt="VSCode" />
+<img src="https://api.iconify.design/simple-icons:visualstudiocode.svg?color=%230088FF" height="80" alt="VSCode" />
 &nbsp;
-<img src="https://api.iconify.design/simple-icons:gnubash.svg?color=%2300BFFF" height="60" alt="Bash" />
+<img src="https://api.iconify.design/simple-icons:gnubash.svg?color=%2300BFFF" height="80" alt="Bash" />
 </div>
 </td>
 </tr>
