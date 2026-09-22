@@ -41,28 +41,28 @@ Driven by complex challenges and building efficient, scalable software.
 <h3>🔹 Tech Stack & Tools</h3>
 <b>🔹 Main Languages</b><br><br>
 <div>
-<img src="https://api.iconify.design/mdi:language-java.svg?color=%230088FF&width=26&height=26" width="26" height="26" alt="Java" />
+<img src="https://api.iconify.design/mdi:language-java.svg?color=white&width=26&height=26" width="26" height="26" alt="Java" />
 &nbsp;
-<img src="https://api.iconify.design/simple-icons:c.svg?color=%2300BFFF&width=26&height=26" width="26" height="26" alt="C" />
+<img src="https://api.iconify.design/simple-icons:c.svg?color=white&width=26&height=26" width="26" height="26" alt="C" />
 &nbsp;
-<img src="https://api.iconify.design/simple-icons:cplusplus.svg?color=%230055CC&width=26&height=26" width="26" height="26" alt="C++" />
+<img src="https://api.iconify.design/simple-icons:cplusplus.svg?color=white&width=26&height=26" width="26" height="26" alt="C++" />
 &nbsp;
-<img src="https://api.iconify.design/simple-icons:python.svg?color=%2344AAFF&width=26&height=26" width="26" height="26" alt="Python" />
+<img src="https://api.iconify.design/simple-icons:python.svg?color=white&width=26&height=26" width="26" height="26" alt="Python" />
 </div>
 <br>
 <b>🔹 Tools & OS</b><br><br>
 <div>
-<img src="https://api.iconify.design/simple-icons:linux.svg?color=%230088FF&width=26&height=26" width="26" height="26" alt="Linux" />
+<img src="https://api.iconify.design/simple-icons:linux.svg?color=white&width=26&height=26" width="26" height="26" alt="Linux" />
 &nbsp;
-<img src="https://api.iconify.design/simple-icons:ubuntu.svg?color=%2300BFFF&width=26&height=26" width="26" height="26" alt="Ubuntu" />
+<img src="https://api.iconify.design/simple-icons:ubuntu.svg?color=white&width=26&height=26" width="26" height="26" alt="Ubuntu" />
 &nbsp;
-<img src="https://api.iconify.design/simple-icons:git.svg?color=%230055CC&width=26&height=26" width="26" height="26" alt="Git" />
+<img src="https://api.iconify.design/simple-icons:git.svg?color=white&width=26&height=26" width="26" height="26" alt="Git" />
 &nbsp;
-<img src="https://api.iconify.design/simple-icons:github.svg?color=%2344AAFF&width=26&height=26" width="26" height="26" alt="GitHub" />
+<img src="https://api.iconify.design/simple-icons:github.svg?color=white&width=26&height=26" width="26" height="26" alt="GitHub" />
 &nbsp;
-<img src="https://api.iconify.design/simple-icons:visualstudiocode.svg?color=%230088FF&width=26&height=26" width="26" height="26" alt="VSCode" />
+<img src="https://api.iconify.design/simple-icons:visualstudiocode.svg?color=white&width=26&height=26" width="26" height="26" alt="VSCode" />
 &nbsp;
-<img src="https://api.iconify.design/simple-icons:gnubash.svg?color=%2300BFFF&width=26&height=26" width="26" height="26" alt="Bash" />
+<img src="https://api.iconify.design/simple-icons:gnubash.svg?color=white&width=26&height=26" width="26" height="26" alt="Bash" />
 </div>
 </td>
 </tr>
