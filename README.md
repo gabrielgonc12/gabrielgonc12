@@ -12,7 +12,7 @@
 <br><br>
 <!-- Contato -->
 <a href="mailto:gabrielsilva.gds00@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-gabrielsilva.gds00%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Gmail-gabrielsilva.gds00%40gmail.com-FFFFFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail"/>
 </a>
 </div>
 
