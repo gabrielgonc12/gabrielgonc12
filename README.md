@@ -1,7 +1,8 @@
-<!-- Cabeçalho (Corte Diagonal Azul e Preto) -->
+<!-- Cabeçalho (Linha Minimalista) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,100:0088FF&height=130&section=header" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0088FF&height=8" alt="Header" width="100%"/>
 </div>
+<br>
 
 <!-- Nome Estático e Subtítulo Animado -->
 <div align="center">
@@ -62,7 +63,7 @@
 
 <br>
 
-<!-- Rodapé Animado -->
+<!-- Rodapé (Linha Minimalista) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0088FF,100:000000&height=90&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0088FF,100:000000&height=8" alt="Footer" width="100%"/>
 </div>
