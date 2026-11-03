@@ -57,7 +57,7 @@ Driven by complex challenges and building efficient, scalable software.
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/github/ffffff" width="26" height="26" alt="GitHub" />
 &nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/visualstudiocode.svg?color=white" width="26" height="26" alt="VSCode" />
+<img src="https://api.iconify.design/mdi/microsoft-visual-studio-code.svg?color=white" width="26" height="26" alt="VSCode" />
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/gnubash/ffffff" width="26" height="26" alt="Bash" />
 </div>
